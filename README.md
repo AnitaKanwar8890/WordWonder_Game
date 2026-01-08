@@ -5,7 +5,7 @@ WordWonder (Spell It Out) is a web-based word spelling game developed using Node
 Objectives
 
 The main objectives of this project are:
-To build a dynamic web application using Node.js and Express.js
+-To build a dynamic web application using Node.js and Express.js
 To implement server-side rendering using EJS templates
 To integrate a PostgreSQL database for storing user attempts and scores
 To handle database connectivity and runtime errors gracefully
@@ -92,4 +92,4 @@ Full cloud deployment
 Author
 
 Anita
-Aspiring Software Engineer with interest in Backend Development and Web Technologies
+Aspiring Software Engineer with interest in Backend Development and Web Technologies.
